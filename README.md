@@ -10,6 +10,7 @@
 ## Requisitos para ejecutar la api
 
 * Instalar mongoDB.
+* Instalar paquete y todas sus dependencias en el directorio [node_modules/] con `npm install`.
 * Iniciar la aplicación con `npm run start`.
 
 ---

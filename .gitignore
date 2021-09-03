@@ -6,7 +6,7 @@
 /out-tsc
 
 # Temporary Files
-/log/*
+*.log
 
 # Only exists if Bazel was run
 /bazel-out

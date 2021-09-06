@@ -23,7 +23,7 @@
 
 ## Ejecución de la API
 * Los endpoints disponibles en la API, estan definidos en el archivo `ENDPOINTS.md`.
-* Para testear los endpoints directamente en Postman, debe importar el archivo `slim4-crud.postman_collection.json` ubicado en el directorio `resource`.
+* Para testear los endpoints directamente en Postman, debe importar el archivo `express4-crud.postman_collection.json` ubicado en el directorio `resource`.
 
 ---
 

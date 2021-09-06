@@ -6,7 +6,7 @@ const router = express.Router();
 
 router.use(authController.validateToken);
 
-router.get('/user', userController.getAll);
+router.get('/users', userController.getAll);
 router.get('/user/:id', userController.get);
 router.post('/user', userController.insert);
 router.put('/user/:id', userController.update);

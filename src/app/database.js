@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 
 connect = async () => {
     try {
-        const uri = 'mongodb://localhost:27017/db_mean';
+        const uri = 'mongodb://localhost:27017/db_express4';
     
         const options = {
             useNewUrlParser: true,

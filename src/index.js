@@ -5,7 +5,7 @@ const logger = require('./app/logger');
 const routes = require('./app/routes');
 
 const app = express();
-const port = 3003;
+const port = 3004;
 
 //Define la configuración necesaria para evitar que el navegador cierre la conexión entre cliente y servidor.
 app.use(cors({
